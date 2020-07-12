@@ -8,11 +8,11 @@
  *
  * @wordpress-plugin
  * Plugin Name: Hello World
- * Version: 2.0.1
+ * Version: 2.0.2
  * Description: In tribute to the famous "Hello Dolly" plugin by Matt Mullenweg comes this new plugin. And how could someone possible name a new default plugin other than "Hello World", as it's THE definition for a default example :)
- * Author: Bernhard Kau
+ * Author: Bernhard Kau--mods by dwh
  * Author URI: http://kau-boys.de
- * Plugin URI: https://github.com/2ndkauboy/hello-world
+ * Plugin URI: https://github.com/grouchypenguin/hello-world-1
  * Text Domain: hello-world
  * Domain Path: /languages
  * License: GPLv3
